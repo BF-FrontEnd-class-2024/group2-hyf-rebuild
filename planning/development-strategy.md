@@ -1,55 +1,110 @@
-# Project Name
+# HYF-rebuild
 
-<!-- describe your project -->
-
----
+**It's a website where we can find help and support on your way to becoming a
+web-developer**
 
 ## Setup
 
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
+- Create a new repo from the template
+- Add collaborators
+- Turn on github pages and give them write access
+- Protect main branch
+- Turn on discussion
+
+## Home page
+
+### Header
+
+- As a user, I want to see the `logo` and the `navigation links`
+
+### Title
+
+- As a user, I want to see the `photo` and the `title`
+
+### Stats
+
+- As a user, I want to see the `stats`
+
+### Some info
+
+- As a user, I want to see the `info`
+
+### Partners
+
+- As a user, I want to see the `logos`
+
+### Form
+
+- As a user, I want to see the `form` to sign up
+
+### Contact us
+
+- As a user, I want to see how I can `contact` and find `location`
 
 ---
 
-<!-- copy this section once for each must-have user story -->
+## About page
 
-## user story
+### Header
 
-<!-- each issue created from this section will have the `for: user story` label -->
+- As a user, I want to see the `logo` and the `navigation links`
 
-> "as a ... i can ... so that ..."
+### Title
 
-<!-- write any extra notes or description -->
+- As a user, I want to see the `title` and `some images`
 
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+### Some info
 
-### Logic: user story
+- As a user, I want to see the `mission`, `vision`, `image` and the `history`
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### More info
 
-### Interface: user story
+- As a user, I want to see the `title` and `images`
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### Extra info
 
-### Interaction: user story
+- As a user, I want to see the more `info` about
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### Footer
 
-### Documentation: user story
+- As a user, I want to see the `footer` and `social media links`
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+---
+
+## Blog
+
+### Header
+
+- As a user, I want to see the `logo` and `navigation links`
+
+### Title
+
+- As a user, I want to see the `title` and `paragraph`
+
+### Showcase
+
+- As a user, I want to see the `blogs` and `photo`
+
+### Footer
+
+- As a user, I want to see the `footer`
+
+---
+
+## Volunteer
+
+### Header
+
+- As a user, I want to see the `logo` and `navigation links`
+
+### Description
+
+- As a user, I want to see the `photo` and `description`
+
+### Volunteers
+
+- As a user, I want to see the `photo` and `info`
+
+### Footer
+
+- As a user, I want to see the `footer`
