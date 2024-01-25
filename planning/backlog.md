@@ -7,24 +7,69 @@ create your own!
 
 ## Must-Haves
 
-> these are necessary for basic usability
+> First page - Main HYF page
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user I want to see the `logo` and `navigation links` so that I can go
+      to the different parts of the page.
 
-## Should-Haves
+- [ ] As a user I want to see the `title` on the `photo` so that I can
+      understand easily what the website is about.
 
-> these will complete the user experience, but are not necessary
+- [ ] As a user I want to see the `stats` so that I can see some useful
+      statistics information.
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user I want to see the `form` that I subscribe to the newsletter.
 
-## Could-Haves
+- [ ] As a user I want to see the `form` that I can fill out to give some
+      information about myself and I can see the `map` with the location of HYF.
 
-> would be really cool ... if there's time
+- [ ] As a user I want to see at the end of the page a `footer` with some links
+      to `social medias` so I can easily go to my favorite page.
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+> Second page - About page
+
+- [ ] As a user I want to see the `logo` and `navigation links` so that I can go
+      to the different parts of the page.
+
+- [ ] As a user I want to see the `title` and some `img` so that I can
+      understand easily what the webpage is about.
+
+- [ ] As a user I want to see different infos about the webpage with some logos
+      and images.
+
+- [ ] As a user I want to see at the end of the page a `footer` with some links
+      to `social medias` so I can easily go to my favorite page.
+
+> Third page - Blog page
+
+- [ ] As a user I want to see the `logo` and `navigation links` so that I can go
+      to the different parts of the page.
+
+- [ ] As a user I want to see the `title` and a `paragraph` so that I can
+      understand easily what the webpage is about.
+
+- [ ] As a user I want to see the `showcase` to read some information about the
+      blog and some pictures.
+
+- [ ] As a user I want to see different containers that includes different info,
+      logos about the website.
+
+- [ ] As a user I want to see at the end of the page a `footer` with some links
+      to `social medias` so I can easily go to my favorite page.
+
+> Fourth page - Volunteer page
+
+- [ ] As a user I want to see the `logo` and `navigation links` so that I can go
+      to the different parts of the page.
+
+- [ ] As a user I want to see the `title` and a `photo` so that I can understand
+      easily what the webpage is about.
+
+- [ ] As a user I want to see some `paragraphs` to have more information about
+      page.
+
+- [ ] As a user I want to see different paragraphs that includes different info
+      and logos about the website.
+
+- [ ] As a user I want to see at the end of the page a `footer` with some links
+      to `social medias` so I can easily go to my favorite page.
