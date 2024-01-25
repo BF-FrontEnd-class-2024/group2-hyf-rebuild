@@ -2,16 +2,18 @@
 
 ## Project's design overview
 
-> Give an overview of your project's design
+> Hack Your Future - Main page
 
-<!-- give an overview of your project's design -->
-<!-- describe the reasoning behind your group's design and wireframe -->
-<!-- include other centralized decisions like fonts, palates, ... -->
+![design1](./Screenshot1.png)
 
----
+> Hack Your Future - About page
 
-## Wireframe(s)
+![design2](./Screenshot2.png)
 
-> Include your wireframe(s) and link to wireframe
+> Hack Your Future - Blog page
 
-<!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
+![design3](./Screenshot3.png)
+
+> Hack Your Future - Volunteer page
+
+![design4](./Screenshot4.png)
