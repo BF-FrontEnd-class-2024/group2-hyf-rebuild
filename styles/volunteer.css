@@ -1,0 +1,114 @@
+@import url("main.css");
+
+.body {
+  width: 100%;
+}
+
+/* header-image */
+.top-img {
+  width: 100vw;
+  height: 30vh;
+  object-fit: cover;
+  filter: brightness(0.4);
+}
+
+.img-section {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -650%);
+  color: #fff;
+}
+
+.img-section > h1 {
+  font-size: 40px;
+}
+
+/* info-volunteers */
+
+.featured {
+  padding: 60px;
+  border-bottom: 1px solid #999;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  background-color: #f2f4fb;
+}
+
+.paragraph-title {
+  font-size: 34px;
+  padding-bottom: 10px;
+}
+
+/* volunteers-words */
+.volunteer-btn {
+  outline: none;
+  border: none;
+  cursor: pointer;
+  position: relative;
+  background-color: #cad2df;
+  display: block;
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: 16px 26px;
+  margin: 0 auto;
+  border-radius: 20px;
+  box-shadow: 0 9px #aab7cc;
+}
+
+.volunteer-btn:hover {
+  box-shadow: 0 4px #95a5bf;
+  top: 2px;
+}
+
+.volunteer-btn:active {
+  box-shadow: none;
+  top: 6px;
+}
+
+.text {
+  text-align: center;
+  font-size: 16px;
+  max-width: 900px;
+  padding-bottom: 20px;
+  line-height: 1.7;
+}
+
+.volunteers {
+  background-color: #f2f4fb;
+  padding: 40px;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  border: 1px solid #999;
+}
+
+.p-photo {
+  object-fit: cover;
+  display: block;
+  clip-path: circle();
+  width: 200px;
+  height: 200px;
+  margin-right: 40px;
+}
+
+.their-words {
+  max-width: 700px;
+  font-style: italic;
+  line-height: 1.7;
+}
+
+.volunteer-head {
+  margin-bottom: 20px;
+  font-style: italic;
+}
+
+.right-side {
+  margin-right: 20px;
+}

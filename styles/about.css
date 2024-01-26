@@ -1,0 +1,25 @@
+@import url("main.css");
+
+/* title */
+.about-title {
+  font-size: 56px;
+  line-height: normal;
+  text-align: center;
+  margin: 0 20px;
+  padding: 0 20px;
+  background: #fff;
+  color: darkblue;
+  vertical-align: baseline;
+}
+
+/* info */
+.container-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  padding: 0 50px;
+  background-color: #eee;
+  color: darkblue;
+  text-align: center;
+}
