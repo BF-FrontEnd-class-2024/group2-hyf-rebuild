@@ -4,3 +4,28 @@
   text-decoration: underline;
   color: blueviolet;
 }
+
+/* Container holding the image and the text */
+.container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.text-block {
+  position: absolute;
+  top: 20px;
+  bottom: 20px;
+  background-color: white;
+  color: navy;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.title {
+  text-align: left;
+}
+
+.par {
+  text-align: left;
+}
