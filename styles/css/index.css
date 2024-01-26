@@ -21,7 +21,7 @@
   background-color: black;
   color: gold;
   padding: 10px 20px;
-  font-size: 30px;
+  font-size: 35px;
   text-align: center;
 }
 
@@ -38,7 +38,37 @@
 }
 
 .p-rest {
-  font-size: 15px;
+  font-size: 18px;
   text-align: center;
+  color: #04004a;
+}
+
+/* some info */
+h2 {
+  font-size: 80px;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  color: #04004a;
+}
+
+.container-some-info {
+  display: flex;
+  justify-content: center;
+}
+
+.img-info {
+  width: 80%;
+}
+
+.p-title {
+  font-size: 30px;
+  margin-left: 10px;
+  color: #04004a;
+}
+
+.p-under {
+  font-size: 18px;
+  margin-left: 10px;
   color: #04004a;
 }
