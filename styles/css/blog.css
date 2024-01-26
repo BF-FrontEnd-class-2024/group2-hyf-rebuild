@@ -1,5 +1,9 @@
 @import url("main.css");
 
+* {
+  box-sizing: border-box;
+}
+
 .blog {
   text-decoration: underline;
   color: blueviolet;
@@ -28,4 +32,18 @@
 
 .par {
   text-align: left;
+}
+
+.column.left {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  position: relative;
+}
+
+.column.right {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  position: relative;
 }
