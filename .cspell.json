@@ -21,7 +21,9 @@
     "Yana",
     "unemloyed",
     "fullfield",
-    "Tervueren"
+    "Tervueren",
+    "firstname",
+    "lastname"
   ],
   "ignorePaths": [
     "node_modules/**",
